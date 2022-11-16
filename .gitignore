@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 *.ini
+~$1_Report.docx
+*.tmp
