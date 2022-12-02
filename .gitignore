@@ -131,3 +131,4 @@ dmypy.json
 *.ini
 ~$1_Report.docx
 *.tmp
+hand_in/
